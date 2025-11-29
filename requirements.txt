@@ -1,0 +1,10 @@
+requests
+dnspython
+python-dotenv
+certifi
+charset-normalizer
+idna
+urllib3
+groq
+selenium
+webdriver-manager
